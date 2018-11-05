@@ -1,5 +1,19 @@
 [
   {
+    "name": "HireVibes",
+    "description":"*HireVibes (HVT) https://www.hirevibes.io/ Token Airdrop and Claim opportunity has started. For more info visit: https://goo.gl/nrELgi | To claim, use our website Claim Tool OR go to: https://goo.gl/em1x3o OR Transfer any amount of HVT to any account.*",
+    "website":"https://www.hirevibes.io/",
+    "logo": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/hvt.png",
+    "logo_lg": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/hvt-lg.png",    
+    "symbol": "HVT",
+    "account": "hirevibeshvt",
+    "action": "claim",
+    "data": {
+      "owner": "XXX",
+      "sym": "4,HVT"
+    }
+  },
+  {
     "name": "ZKS",
     "description":"***ZKS Claim Opportunity*** (ending Nov 21st 2018). ZKS is a Redeemable Rewards Token for EOS CPU and Net Resources. Redeem ZKS @ https://zks.one for EOS CPU and Net. To claim use this function or transfer ZKS to any account.",
     "website":"https://zks.one",
