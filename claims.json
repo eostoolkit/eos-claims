@@ -1,4 +1,18 @@
 [
+    {
+    "name": "HireVibes",
+    "description":"Claim you HireVibes HVT. .",
+    "url":"https://www.hirevibes.io/",
+    "logo": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/hvt.png",
+    "logo_lg": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/hvt-lg.png",    
+    "symbol": "HVT",
+    "account": "hvstakingio",
+    "action": "claim",
+    "data": {
+      "owner": "XXX",
+      "symbol": "4,HVT"
+    }
+  },
   {
     "name": "ZKS",
     "description":"***ZKS Claim Opportunity*** (ending Nov 21st 2018). ZKS is a Redeemable Rewards Token for EOS CPU and Net Resources. Redeem ZKS @ https://zks.one for EOS CPU and Net. To claim use this function or transfer ZKS to any account.",
