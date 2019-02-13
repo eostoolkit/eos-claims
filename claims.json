@@ -1,5 +1,19 @@
 [
   {
+    "name": "Billionaire Token",
+    "description":"The Airgrab will end on the 12th of March 2019! Everyone who had more than 100 EOS in their wallets on the 20th of January 2019 is eligible to Airgrab XBL. The ratio is 0.00122 to 1 - this means that for every 1000 EOS, you will receive 1.22 XBL.",
+    "logo": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/billionaire.png",
+    "logo_lg": "https://raw.githubusercontent.com/eoscafe/eos-airdrops/master/logos/billionaire-lg.png",
+    "symbol": "XBL",
+    "account": "billionairet",
+    "action": "open",
+    "data": {
+      "owner": "XXX",
+      "symbol": "4,XBL",
+      "ram_payer": "XXX"
+    }
+  },
+  {
     "name": "ZKS",
     "description":"***ZKS Claim Opportunity*** (ending Nov 21st 2018). ZKS is a Redeemable Rewards Token for EOS CPU and Net Resources. Redeem ZKS @ https://zks.one for EOS CPU and Net. To claim use this function or transfer ZKS to any account.",
     "url":"https://zks.one",
